@@ -8,6 +8,10 @@ This project implements an AI-powered support ticket resolution agent using the 
 
 The system incorporates intelligent retry logic with feedback incorporation and automatic escalation for complex cases.
 
+## Explanation video link:
+https://drive.google.com/file/d/1cd5kdbQ7kxdY5afpr38irdRgvyIEf_kx/view?usp=drive_link
+
+
 ## 🏗️ Architecture
 
 ### Core Components
