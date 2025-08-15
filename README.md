@@ -49,7 +49,7 @@ The system maintains comprehensive state tracking including:
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd support-ticket-agent
+   cd Zikra_Assessment
    ```
 
 2. **Create virtual environment**
